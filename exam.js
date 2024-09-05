@@ -269,10 +269,10 @@ console.log(Mission5(militaryUnit),"The total number of weeks in training")// Th
 
 
 
-// module.exports = {
-//   Mission1,
-//   Mission2,
-//   Mission3,
-//   Mission4,
-//   Mission5,
-// };
+module.exports = {
+  Mission1,
+  Mission2,
+  Mission3,
+  Mission4,
+  Mission5,
+};
