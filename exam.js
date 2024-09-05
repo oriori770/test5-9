@@ -267,7 +267,7 @@ const FirearmObject = {
 console.log(Mission4(militaryUnit, FirearmObject),"Firearm Details" ); //type: Israeli
 console.log(Mission5(militaryUnit),"The total number of weeks in training")// The total number of weeks in training is 22
 
-
+console.log(module)
 
 module.exports = {
   Mission1,
